@@ -162,3 +162,5 @@ cython_debug/
 .vscode/settings.json
 */*/*/*/*.tif
 */*/*/*/*.7z
+mandelbrot/
+julia/
