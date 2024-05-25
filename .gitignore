@@ -158,9 +158,17 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-.vscode/settings.json
-.vscode/settings.json
+*/.vscode/settings.json
+*/*/.vscode/settings.json
 */*/*/*/*.tif
 */*/*/*/*.7z
-mandelbrot/
 julia/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*1/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*2/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*3/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*4/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*5/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*6/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*7/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*8/
+mandelbrot/mandelbrot/pan/out1_4096p_9_files/*9/
