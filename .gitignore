@@ -164,14 +164,13 @@ cython_debug/
 */*/*/*/*.7z
 julia/
 
-mandelbrot/mandelbrot/pan/out1_4096p_9_files/*4
+
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*5
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*6
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*7
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*8
 
 
-mandelbrot/mandelbrot/pan/out2_4096p_9_files/*4
 mandelbrot/mandelbrot/pan/out2_4096p_9_files/*5
 mandelbrot/mandelbrot/pan/out2_4096p_9_files/*6
 mandelbrot/mandelbrot/pan/out2_4096p_9_files/*7
