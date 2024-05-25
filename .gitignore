@@ -164,5 +164,3 @@ cython_debug/
 */*/*/*/*.7z
 julia/
 
-
-mandelbrot/mandelbrot/pan/out2_4096p_9_files/*8
