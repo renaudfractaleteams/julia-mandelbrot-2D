@@ -165,7 +165,6 @@ cython_debug/
 julia/
 
 
-mandelbrot/mandelbrot/pan/out1_4096p_9_files/*5
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*6
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*7
 mandelbrot/mandelbrot/pan/out1_4096p_9_files/*8
